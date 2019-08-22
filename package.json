@@ -1,14 +1,14 @@
 {
-  "name": "eth-contract-wallet-keyring",
-  "version": "0.0.3",
-  "description": "A MetaMask compatible keyring, for proxy contract wallet",
+  "name": "universal-loign-wallet-keyring",
+  "version": "0.0.1",
+  "description": "A MetaMask compatible keyring, for universal login wallet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repositiry": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Xiawpohr/eth-contract-wallet-keyring.git"
+    "url": "git+ssh://git@github.com:Xiawpohr/universal-login-wallet-keyring.git"
   },
   "keywords": [
     "ethereum",
