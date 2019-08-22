@@ -1,0 +1,29 @@
+{
+  "name": "eth-contract-wallet-keyring",
+  "version": "0.0.3",
+  "description": "A MetaMask compatible keyring, for proxy contract wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repositiry": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Xiawpohr/eth-contract-wallet-keyring.git"
+  },
+  "keywords": [
+    "ethereum",
+    "keyring",
+    "metamask"
+  ],
+  "author": "xiawpohr",
+  "license": "ISC",
+  "dependencies": {
+    "eth-sig-util": "^2.3.0",
+    "ethereumjs-abi": "^0.6.7",
+    "ethereumjs-util": "^6.1.0",
+    "ethereumjs-wallet": "^0.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
